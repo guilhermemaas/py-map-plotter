@@ -4,8 +4,8 @@ import plotly
 import pandas as pd
 
 # setting user, api key and access token
-#py.tools.set_credentials_file(username='guilhermemaas', api_key='7da7CFpu3FWfJEWMmbZz')
-#mapbox_access_token = 'pk.eyJ1IjoiZ3VpbGhlcm1lbWFhcyIsImEiOiJja2Nhb2VzOTYxd21tMnJscWFxdzRrOWc5In0.g9M7_E-YtoTjtd2__hTTWA'
+#py.tools.set_credentials_file(username='guilhermemaas', api_key='')
+#mapbox_access_token = ''
 
 data = []
 for event in range(0, 10):
