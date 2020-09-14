@@ -1,5 +1,8 @@
 import plotly.graph_objects as go
 #<
+#https://plotly.com/python/
+#https://dash.plotly.com/basic-callbacks
+#https://dash-gallery.plotly.host/Portal/
 
 mapbox_access_token = open("mapbox_token.txt").read()
 
